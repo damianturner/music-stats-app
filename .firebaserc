@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "dev": "music-stats-app-dev",
+    "prod": "music-stats-app",
+    "default": "music-stats-app-dev"
+  }
+}
